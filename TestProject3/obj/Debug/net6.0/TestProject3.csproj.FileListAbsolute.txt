@@ -22,7 +22,6 @@ C:\Users\lasss\Desktop\06-SeleniumWebDriver\TestProject3\bin\Debug\net6.0\Micros
 C:\Users\lasss\Desktop\06-SeleniumWebDriver\TestProject3\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
 C:\Users\lasss\Desktop\06-SeleniumWebDriver\TestProject3\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
 C:\Users\lasss\Desktop\06-SeleniumWebDriver\TestProject3\bin\Debug\net6.0\Newtonsoft.Json.dll
-C:\Users\lasss\Desktop\06-SeleniumWebDriver\TestProject3\bin\Debug\net6.0\NuGet.Frameworks.dll
 C:\Users\lasss\Desktop\06-SeleniumWebDriver\TestProject3\bin\Debug\net6.0\nunit.framework.dll
 C:\Users\lasss\Desktop\06-SeleniumWebDriver\TestProject3\bin\Debug\net6.0\WebDriver.Support.dll
 C:\Users\lasss\Desktop\06-SeleniumWebDriver\TestProject3\bin\Debug\net6.0\WebDriver.dll
@@ -103,3 +102,7 @@ C:\Users\lasss\Desktop\06-SeleniumWebDriver\TestProject3\obj\Debug\net6.0\refint
 C:\Users\lasss\Desktop\06-SeleniumWebDriver\TestProject3\obj\Debug\net6.0\TestProject3.pdb
 C:\Users\lasss\Desktop\06-SeleniumWebDriver\TestProject3\obj\Debug\net6.0\TestProject3.genruntimeconfig.cache
 C:\Users\lasss\Desktop\06-SeleniumWebDriver\TestProject3\obj\Debug\net6.0\ref\TestProject3.dll
+C:\Users\lasss\Desktop\06-SeleniumWebDriver\TestProject3\bin\Debug\net6.0\nunit.framework.legacy.dll
+C:\Users\lasss\Desktop\06-SeleniumWebDriver\TestProject3\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\lasss\Desktop\06-SeleniumWebDriver\TestProject3\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\lasss\Desktop\06-SeleniumWebDriver\TestProject3\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
