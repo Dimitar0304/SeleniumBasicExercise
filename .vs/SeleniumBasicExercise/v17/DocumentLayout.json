@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\lasss\\Desktop\\06-SeleniumWebDriver\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B49C8D5A-B91A-41D5-9F8C-DA6621E27C06}|TestProject2\\TestProject2.csproj|c:\\users\\lasss\\desktop\\06-seleniumwebdriver\\testproject2\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B49C8D5A-B91A-41D5-9F8C-DA6621E27C06}|TestProject2\\TestProject2.csproj|solutionrelative:testproject2\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C6BD2572-D4A3-469C-8E74-F5581E6B2771}|TestProject3\\TestProject3.csproj|c:\\users\\lasss\\desktop\\06-seleniumwebdriver\\testproject3\\dropdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6BD2572-D4A3-469C-8E74-F5581E6B2771}|TestProject3\\TestProject3.csproj|solutionrelative:testproject3\\dropdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49C8D5A-B91A-41D5-9F8C-DA6621E27C06}|TestProject2\\TestProject2.csproj|c:\\users\\lasss\\desktop\\06-seleniumwebdriver\\testproject2\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B49C8D5A-B91A-41D5-9F8C-DA6621E27C06}|TestProject2\\TestProject2.csproj|solutionrelative:testproject2\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C44FDB80-C125-4C45-9E43-0BC12975199F}|TestProject1\\TestProject1.csproj|c:\\users\\lasss\\desktop\\06-seleniumwebdriver\\testproject1\\testcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,26 +38,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "DropDown.cs",
               "DocumentMoniker": "C:\\Users\\lasss\\Desktop\\06-SeleniumWebDriver\\TestProject3\\DropDown.cs",
               "RelativeDocumentMoniker": "TestProject3\\DropDown.cs",
               "ToolTip": "C:\\Users\\lasss\\Desktop\\06-SeleniumWebDriver\\TestProject3\\DropDown.cs",
               "RelativeToolTip": "TestProject3\\DropDown.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAYwGMAAAAAAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAgwCYAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-10T10:22:00.607Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Table.cs",
               "DocumentMoniker": "C:\\Users\\lasss\\Desktop\\06-SeleniumWebDriver\\TestProject2\\Table.cs",
               "RelativeDocumentMoniker": "TestProject2\\Table.cs",
               "ToolTip": "C:\\Users\\lasss\\Desktop\\06-SeleniumWebDriver\\TestProject2\\Table.cs",
               "RelativeToolTip": "TestProject2\\Table.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAgwCUAAAAOAAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwCEAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-10T10:21:45.269Z",
               "EditorCaption": ""
