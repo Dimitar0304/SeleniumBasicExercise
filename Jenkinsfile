@@ -1,19 +1,29 @@
-pipeline{
+pipeline {
     agent any
-    stages{
-        stage("BuildApp")
-        {
-            steps{
-                
-             bat 'dotnet build'
+    triggers {
+        // Trigger on changes to the main branch
+        pollSCM('* * * * *')
+    }
+    stages {
+        stage('Checkout') {
+            steps {
+                checkout scm
             }
         }
-        stage("run tests")
-        {
-            steps{
-                bat 'dotnet test'
+        stage('Restore dependencies') {
+            steps {
+                bat 'dotnet restore'
             }
         }
-    
+        stage('Build') {
+            steps {
+                bat 'dotnet build --no-restore'
+            }
+        }
+        stage('Run UI tests') {
+            steps {
+                bat 'dotnet test --no-build --verbosity normal'
+            }
+        }
     }
 }
