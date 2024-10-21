@@ -21,6 +21,6 @@ jobs:
     - name: Restore dependencies
       run: dotnet restore
     - name: Build
-      run: dotnet build --no-restore
+      run: dotnet build 
     - name: Run UI tests
-      run: dotnet test --no-build --verbosity normal
+      run: dotnet test 
