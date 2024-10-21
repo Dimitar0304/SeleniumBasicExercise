@@ -1,9 +1,6 @@
 pipeline {
     agent any
-    triggers {
-        // Trigger on changes to the main branch
-        pollSCM('* * * * *')
-    }
+    
     stages {
         stage('Checkout') {
             steps {
